@@ -22,9 +22,9 @@ The specific file that I’m typing into right now is the **README.md** for this
 # Week 1: Example Report 1 #
 ## Week of 09/05/2024
 
-This week, I designed a cool phone stand made of rocks. Check out all my cool sketches and progress photos from this week below, etc., etc....
+This week, I took a class on immersive technology, and it reminded me of the movie READY PLAYER ONE, which I really enjoyed, it also brought back memories of the Disney designed floors-HoloTile Floor, that I had seen before, which are very important for the development of future virtual reality games.
 
-<img width="200" alt="Cool Phone Stand made of rocks" src="assets/exampleimg.png">
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/截屏2024-09-05 下午2.59.00.png">
 
 ---
 
