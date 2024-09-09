@@ -31,6 +31,7 @@ This week, I took a class on immersive technology, and it reminded me of the mov
 # Week 2: Report 1 #
 ## Week of 09/09/2024
 I just want to try the grasshopper, as I never used it before.
+
 <img width="200" alt="Cool Phone Stand made of rocks" src="assets/56d5353cd0c8f0d671339bbf6e80ad9.png">
 
 <img width="200" alt="Cool Phone Stand made of rocks" src="assets/b2456306804380a7bb13e00914ed272.png">
