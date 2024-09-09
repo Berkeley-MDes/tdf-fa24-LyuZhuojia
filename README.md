@@ -19,7 +19,7 @@ The specific file that I’m typing into right now is the **README.md** for this
 
 ### :star: Whatever you write in your **README.md** will show up on the “front page” of your GitHub repo. This is where we’ll be looking for your [weekly progress reports](https://github.com/Berkeley-MDes/24f-desinv-202/wiki/3.0-Weekly-Submissions#weekly-progress-report). They might look something like this: ###
 
-# Week 1: Example Report 1 #
+# Week 1: Report 1 #
 ## Week of 09/05/2024
 
 This week, I took a class on immersive technology, and it reminded me of the movie READY PLAYER ONE, which I really enjoyed, it also brought back memories of the Disney designed floors-HoloTile Floor, that I had seen before, which are very important for the development of future virtual reality games.
@@ -28,14 +28,15 @@ This week, I took a class on immersive technology, and it reminded me of the mov
 
 ---
 
-It's time to start making this space your own! If you want to save these instructions, make a copy.  Also, feel empowered to delete everything in this README.md and start documenting! 
+# Week 2: Report 1 #
+## Week of 09/09/2024
+I just want to try the grasshopper, as I never used it before.
 
-Excited to work with you,
-your TDF teaching team
 
-PS: let us know if you have any questions!!
 
-PPS: 
+
+
+
 
 ## Quick Links, compiled here for your convenience: ##
 
