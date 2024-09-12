@@ -49,7 +49,7 @@ And I also think of the fragile and beautiful creature, butterfly, it inspired m
 
 but it seems not that good now, I need to improve it to make it become a cell phone stand, simplify the lines of two wings and make its feet and body to support teh object.
 
-And what I think about is that no matter what kind of creature I want to imitate, the phone stand will be full of curve surfaces, but with Rhino the design process will be very complicated, so I just think about which modeling tool I should choose, maybe Nomad? Is taht ok for the class?
+And what I think about is that no matter what kind of creature I want to imitate, the phone stand will be full of curve surfaces, but with Rhino the design process will be very complicated, so I just think about which modeling tool I should choose, maybe Nomad? Is that ok for the class?
 
 
 
