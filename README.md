@@ -44,6 +44,7 @@ I first thought of an octopus, with its many tentacles that could be used to sup
 <img width="200" alt="Cool Phone Stand made of rocks" src="assets/zhuojialyu_a_cell_phone_stand_design_the_shape_of_it_is_like__84192e18-6400-4b43-be68-cb32c9ba43f8_0.png">
 
 And I also think of the fragile and beautiful creature, butterfly, it inspired me.
+
 <img width="200" alt="Cool Phone Stand made of rocks" src="assets/zhuojialyu_a_cell_phone_stand_design_the_shape_of_it_is_like__c6056d91-d2ad-4a6b-9eb4-58069a6c6dd3_1.png">
 
 but it seems not taht good, I need to improve it to make it become a cell phone stand, simplify the lines of two wings and make its feet and body to support teh object.
