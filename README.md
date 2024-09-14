@@ -70,6 +70,14 @@ I don't like grasshopper actually, it makes me feel uncomfortable, but I still t
 
 <img width="200" alt="Cool Phone Stand made of rocks" src="assets/6adce9ed8954cb8b1af4d10aebf6cb0.png">
 
+And I will use 3D printing to produce the cell phone stand.
+
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/0e19a82926afe57d9f912cb4241e2bb.png">
+
+I hope everything will be ok!
+
+
+
 
 
 
