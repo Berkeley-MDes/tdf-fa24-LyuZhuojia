@@ -55,6 +55,15 @@ but it seems not that good now, I need to improve it to make it become a cell ph
 
 And what I think about is that no matter what kind of creature I want to imitate, the phone stand will be full of curve surfaces, but with Rhino the design process will be very complicated, so I just think about which modeling tool I should choose, maybe Nomad? Is that ok for the class?
 
+Well, I finally understand the meaning of the class, I guess I can't use nomad or blender, so I just want to try to learn the grasshopper, I hope everything will be ok.
+My learning process!
+
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/assets/9c2b1c18152a337a12e716ff3461b63.png">
+
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/assets/a5c97380c3fa43d3310ce8aada969f2.png">
+
+
+
 
 
 
