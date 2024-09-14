@@ -58,9 +58,13 @@ And what I think about is that no matter what kind of creature I want to imitate
 Well, I finally understand the meaning of the class, I guess I can't use nomad or blender, so I just want to try to learn the grasshopper, I hope everything will be ok.
 My learning process!
 
-<img width="200" alt="Cool Phone Stand made of rocks" src="assets/9c2b1c18152a337a12e716ff3461b63.png">
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/9c2b1c18152a337a12e716ff3461b63.png">  build
 
 <img width="200" alt="Cool Phone Stand made of rocks" src="assets/a5c97380c3fa43d3310ce8aada969f2.png">
+
+I still want to build a cell phone stand, but it will be much more simple, there is not curve surface in it because it's difficult in grasshopper. 
+
+I want a triangular mobile phone stand, use the inclined surface to support my phone.
 
 
 
