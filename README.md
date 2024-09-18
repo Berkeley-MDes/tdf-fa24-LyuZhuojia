@@ -96,6 +96,8 @@ They think the edge of the object is to sharp and it may hurt people, I think so
 
 <img width="200" alt="Cool Phone Stand made of rocks" src="assets/IMG_5288.jpg">
 
+Well tomorrow we have to submit the video, I will show the process of using grasshopper to build this object and how I print it and what my friend think about it in the video.
+
 
 
 
