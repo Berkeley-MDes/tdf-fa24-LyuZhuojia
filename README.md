@@ -77,6 +77,24 @@ And I will use 3D printing to produce the cell phone stand.
 I hope everything will be ok!
 
 
+# Week 3: Report 3 #
+## Week of 09/16/2024
+
+I used a 3D printer to print out my phone stand.I think the process of 3D printing is interesting, I think I want to try more in the future.
+
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/IMG_5285.jpg">
+
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/IMG_5284.jpg">
+
+When you actually use this object in real life, that’s when you can truly feel its advantages and disadvantages.
+
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/IMG_5287.jpg">
+
+I used this product myself and also had my classmates try it out and give their feedback.
+
+They think the edge of the object is to sharp and it may hurt people, I think so, people have to use it carefully!
+
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/IMG_5288.jpg">
 
 
 
