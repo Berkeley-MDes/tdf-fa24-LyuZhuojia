@@ -113,6 +113,8 @@ This is my video address:https://youtu.be/JOZMqHVANZ8
 
 Regarding the voiceover for the video, what I want to say is that I’ve had a cold this week. I think I’m still getting used to Berkeley’s weather, and my physical condition is quite poor, so I don’t feel like speaking. I’ve done my best to finish the video, ensuring that every step looks clear and complete.
 
+I hope I can win the Axolotl grade, cause I think I already try my best, I know nothing about grasshopper before, and I never try to print something by myself, and I improve the project with feedback, so I think I can get a better grade.
+
 
 
 
