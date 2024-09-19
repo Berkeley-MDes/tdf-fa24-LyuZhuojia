@@ -102,7 +102,13 @@ After I think of the feedbacks from my classmates, I polished the edges of the p
 
 <img width="200" alt="Cool Phone Stand made of rocks" src="assets/IMG_5323.JPG">
 
+And now I find a better way to use the product! It can be a good place to show books!
+
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/IMG_5312.JPG">
+
+
 Well tomorrow we have to submit the video, I will show the process of using grasshopper to build this object and how I print it and what my friend think about it in the video.
+
 
 
 
