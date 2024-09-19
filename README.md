@@ -109,7 +109,9 @@ And now I find a better way to use the product! It can be a good place to show b
 
 Well tomorrow we have to submit the video, I will show the process of using grasshopper to build this object and how I print it and what my friend think about it in the video.
 
+This is my video address
 
+https://youtu.be/JOZMqHVANZ8
 
 
 
