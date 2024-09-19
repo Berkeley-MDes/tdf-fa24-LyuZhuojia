@@ -98,9 +98,9 @@ They think the edge of the object is to sharp and it may hurt people, I think so
 
 After I think of the feedbacks from my classmates, I polished the edges of the product, making them less sharp, I always want to make my product much more better.
 
-<img width="200" alt="Cool Phone Stand made of rocks" src="assets/IMG_5313.jpg">
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/IMG_5317.JPG">
 
-<img width="200" alt="Cool Phone Stand made of rocks" src="assets/IMG_5327.jpg">
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/IMG_5323.JPG">
 
 Well tomorrow we have to submit the video, I will show the process of using grasshopper to build this object and how I print it and what my friend think about it in the video.
 
