@@ -137,7 +137,7 @@ Data Flows
 	•	Behavior Data: User interactions are stored in User Preferences.
 	•	Ad Transmission: Personalized ads are generated and sent to the user’s device.
 
-
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/WEEK3-1.jpg">
 
 
 
