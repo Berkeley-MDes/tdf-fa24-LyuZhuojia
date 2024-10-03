@@ -143,6 +143,38 @@ Data Flows
 
 ## Quick Links, compiled here for your convenience: ##
 
+# Week 5: Report 5 #
+## Week of 10/03/2024
+I think my task is to ycomplete three tutorial projects and, learn how to build circuits and maybe how to write code?
+Actually I have nno idea about the assignment cause even though I have learnt something about Arduino before, I forgot everything very fast, so now I only know something about how to build the circuits.
+However, I followed the tutorial step by step, and whenever I encountered something I didn’t understand, I asked ChatGPT, and I managed to complete the tasks step by step. 
+
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/截屏2024-10-02 下午11.29.50.png">
+
+I finished three projects: HelloWorld, Make it Blink, and RGB_led_fade. 
+
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/截屏2024-10-02 下午9.44.14.png">
+
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/截屏2024-10-02 下午11.02.17.png">
+
+To be honest, there were many unexpected issues along the way. For example, I discovered that my device was constantly offline when I was working from home, and I was really confused about that. It wasn’t until I consulted ChatGPT that I realized the issue was with the WiFi.
+
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/截屏2024-10-02 下午10.20.29.png">
+
+Firstly, when I was setting up the circuit, I noticed that the schematic provided by the professor didn’t match the actual situation—our button had only two connection points. But since I had worked with Arduino before, this wasn’t a big issue for me. 
+
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/IMG_5853.JPG">
+
+Also, I found that the blinking frequency of the LED didn’t increase when I pressed the button, which was due to an issue with the change_period() function. To be honest, I didn’t experience any ‘Ah-ha!’ moments during the debugging process because, with ChatGPT’s help, all of my confusions were resolved almost immediately.
+
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/截屏2024-10-02 下午10.29.57.png">
+
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/IMG_5852.JPG">
+
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/IMG_5831.JPG">
+
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/IMG_5832.JPG">
+
 - [TDF Wiki](https://github.com/Berkeley-MDes/24f-desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
 - [Google Drive Folder](https://drive.google.com/drive/u/0/folders/1DJ1b6sSDwHXX6NRcQYt10ivyQSgU0ND6) - slides and other resources
 - [bCourses](https://bcourses.berkeley.edu/courses/1537533) - where the grading happens
