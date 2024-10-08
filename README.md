@@ -175,6 +175,26 @@ Also, I found that the blinking frequency of the LED didn’t increase when I pr
 
 <img width="200" alt="Cool Phone Stand made of rocks" src="assets/IMG_5832.JPG">
 
+# Week 6: Report 6 #
+## Week of 10/07/2024
+
+I successfully soldered the Stemma QT interface board following the demonstration video.
+
+Experiment Process:
+I used the MPU6050 accelerometer and gyroscope for the experiment. In the setup() function, I initialized the sensor and successfully displayed data in the serial monitor.
+In the loop() function, I read the accelerometer and gyroscope data every 500 milliseconds and printed it to the serial monitor.
+
+Possible Modifications:
+1.Used the map() function to map sensor data to control the LED output.
+2.Applied constrain() to limit data range or used a simple smoothing algorithm to filter noisy data.
+
+Conclusion:
+I successfully completed the sensor connection, data reading, and logging. I also experimented with data mapping and smoothing techniques.
+This experiment helped me understand how to interact with Stemma sensors using a Particle device.
+
+
+
+
 - [TDF Wiki](https://github.com/Berkeley-MDes/24f-desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
 - [Google Drive Folder](https://drive.google.com/drive/u/0/folders/1DJ1b6sSDwHXX6NRcQYt10ivyQSgU0ND6) - slides and other resources
 - [bCourses](https://bcourses.berkeley.edu/courses/1537533) - where the grading happens
