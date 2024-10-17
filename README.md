@@ -204,9 +204,9 @@ As I started modeling the robot, I realized that the structure is much more comp
 3. Plan Moving Forward
 To avoid being overwhelmed by the complexity, I decided to start with the outer shell of the robot. Once I have the shell ready, I will gradually tackle the interior components and connections step by step. This phased approach will help me stay organized and focused, ensuring that the prototype can be built systematically.
 
-<img width="200" alt="Cool Phone Stand made of rocks" src="assets/截屏2024-10-17下午2.56.50.png">
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/截屏2024-10-17 下午2.56.50.png">
 
-<img width="200" alt="Cool Phone Stand made of rocks" src="assets/截屏2024-10-17下午2.57.25.png">
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/截屏2024-10-17 下午2.57.25.png">
 
 
 - [TDF Wiki](https://github.com/Berkeley-MDes/24f-desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
