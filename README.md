@@ -192,6 +192,17 @@ Conclusion:
 I successfully completed the sensor connection, data reading, and logging. I also experimented with data mapping and smoothing techniques.
 This experiment helped me understand how to interact with Stemma sensors using a Particle device.
 
+# Week 7: Report 7 #
+## Week of 10/17/2024
+
+1. Progress and Achievements
+In the past week, we gained inspiration and finalized the idea of designing a trash bin robot. This concept excited me, and I quickly moved on to planning how to model the trash bin structure. My goal is to build a functional prototype and eventually 3D print the model for further iteration.
+
+2. Challenges Faced
+As I started modeling the robot, I realized that the structure is much more complex than I initially expected. One of the biggest challenges is the connection between different parts—this aspect is particularly tricky for me since it’s not my area of expertise. Managing the mechanical aspects of part assembly has proven to be quite a headache.
+
+3. Plan Moving Forward
+To avoid being overwhelmed by the complexity, I decided to start with the outer shell of the robot. Once I have the shell ready, I will gradually tackle the interior components and connections step by step. This phased approach will help me stay organized and focused, ensuring that the prototype can be built systematically.
 
 
 
