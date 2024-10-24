@@ -208,6 +208,30 @@ To avoid being overwhelmed by the complexity, I decided to start with the outer 
 
 <img width="200" alt="Cool Phone Stand made of rocks" src="assets/截屏2024-10-17 下午2.57.25.png">
 
+# Week 8: Report 8 #
+## Week of 10/24/2024
+
+This week, we completed our smart trash bin robot, and I think it’s super cute. We spent a lot of time building it. My main responsibilities were model construction, 3D printing, and hands-on assembly. Of course, I was also involved in some technical aspects, such as the expression feedback feature.
+
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/WechatIMG398.jpg">
+
+We also spent a lot of time thinking its appearance, we want to make it cute.
+
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/WechatIMG390.jpg">
+
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/WechatIMG402.jpg">
+
+This little robot has a variety of expressions: it gets angry when the trash is full, feels sad when you knock it over, and becomes happy again when you help it up.
+
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/截屏2024-10-24 下午12.28.14.png">
+
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/截屏2024-10-24 下午12.28.28.png">
+
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/截屏2024-10-24 下午12.28.39.png">
+
+We have done a lot of work this week, so we finally chose the Axolot project challenge level, we think we deserve it!
+
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/截屏2024-10-24 下午12.42.54.png">
 
 - [TDF Wiki](https://github.com/Berkeley-MDes/24f-desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
 - [Google Drive Folder](https://drive.google.com/drive/u/0/folders/1DJ1b6sSDwHXX6NRcQYt10ivyQSgU0ND6) - slides and other resources
