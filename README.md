@@ -233,6 +233,21 @@ We have done a lot of work this week, so we finally chose the Axolot project cha
 
 <img width="200" alt="Cool Phone Stand made of rocks" src="assets/截屏2024-10-24 下午12.42.54.png">
 
+# Week 9: Report 9 #
+## Week of 10/31/2024
+
+This week, I completed the basic framework for the system architecture, including connections between the knowledge base, ZeroWidth platform, and LLM generation module. Seeing each component take shape really gave me a clearer sense of direction.
+
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/WEEK10-2.png">
+
+I ran the first basic experiment, testing different parameter combinations, like the basic GPT setup and some initial instructions, to observe how the model responds. This helped me get a preliminary feel for the model’s behavior.
+
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/截屏2024-11-07 下午6.27.00.png">
+
+And I organized the content for the knowledge base, selecting essential information that the model needs for its responses. This process gave me a clearer understanding of what kind of knowledge the model relies on.
+
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/截屏2024-11-07 上午9.37.53.png">
+
 - [TDF Wiki](https://github.com/Berkeley-MDes/24f-desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
 - [Google Drive Folder](https://drive.google.com/drive/u/0/folders/1DJ1b6sSDwHXX6NRcQYt10ivyQSgU0ND6) - slides and other resources
 - [bCourses](https://bcourses.berkeley.edu/courses/1537533) - where the grading happens
