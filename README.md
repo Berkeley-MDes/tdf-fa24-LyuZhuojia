@@ -248,6 +248,21 @@ And I organized the content for the knowledge base, selecting essential informat
 
 <img width="200" alt="Cool Phone Stand made of rocks" src="assets/截屏2024-11-07 上午9.37.53.png">
 
+# Week 10: Report 10 #
+## Week of 11/07/2024
+
+This week, I integrated the RAG framework into the model, which improved the precision of knowledge retrieval and significantly enhanced response relevance.
+
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/截屏2024-11-07 下午6.34.57.png">
+
+I added some variables, like temperature and contextual parameters, to make the model’s responses more flexible and able to adapt automatically to different scenarios.
+
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/截屏2024-11-07 上午10.57.05.png">
+
+With the setup of instructions, RAG, and variables, I finally completed the final experiment. Now, the model can generate highly personalized responses across various scenarios, making it feel like I’m one step closer to the goal.
+
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/截屏2024-11-07 下午6.09.33.png">
+
 - [TDF Wiki](https://github.com/Berkeley-MDes/24f-desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
 - [Google Drive Folder](https://drive.google.com/drive/u/0/folders/1DJ1b6sSDwHXX6NRcQYt10ivyQSgU0ND6) - slides and other resources
 - [bCourses](https://bcourses.berkeley.edu/courses/1537533) - where the grading happens
