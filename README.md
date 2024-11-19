@@ -268,6 +268,8 @@ With the setup of instructions, RAG, and variables, I finally completed the fina
 
 This week, I officially joined a team for the final project. At first, we didn’t have a clear idea of what to work on, but after several discussions, we developed a very rough concept. The team is exploring the idea of a wearable device that can visualize emotional states through technology and design. While still in its infancy, this concept has given us a starting point to brainstorm further and identify potential directions.
 
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/zhuojialyu_An_early-stage_concept_sketch_of_a_wearable_device_e5b31a25-44ef-4b9e-a60c-f1cc316a809f_0.png">
+
 Challenges:
 Aligning diverse ideas within the team and shaping them into a coherent concept has been a key challenge this week.
 
