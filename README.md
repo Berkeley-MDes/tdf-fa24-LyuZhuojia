@@ -263,6 +263,18 @@ With the setup of instructions, RAG, and variables, I finally completed the fina
 
 <img width="200" alt="Cool Phone Stand made of rocks" src="assets/截屏2024-11-07 下午6.09.33.png">
 
+# Week 11: Report 11 #
+## Week of 11/14/2024
+
+This week, I officially joined a team for the final project. At first, we didn’t have a clear idea of what to work on, but after several discussions, we developed a very rough concept. The team is exploring the idea of a wearable device that can visualize emotional states through technology and design. While still in its infancy, this concept has given us a starting point to brainstorm further and identify potential directions.
+
+Challenges:
+Aligning diverse ideas within the team and shaping them into a coherent concept has been a key challenge this week.
+
+Next Steps:
+1. Continue refining the initial concept and defining the key features of the project.
+2.Explore technical feasibility and start gathering resources for development.
+
 - [TDF Wiki](https://github.com/Berkeley-MDes/24f-desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
 - [Google Drive Folder](https://drive.google.com/drive/u/0/folders/1DJ1b6sSDwHXX6NRcQYt10ivyQSgU0ND6) - slides and other resources
 - [bCourses](https://bcourses.berkeley.edu/courses/1537533) - where the grading happens
