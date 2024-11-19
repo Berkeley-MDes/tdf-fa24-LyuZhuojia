@@ -277,6 +277,34 @@ Next Steps:
 1. Continue refining the initial concept and defining the key features of the project.
 2.Explore technical feasibility and start gathering resources for development.
 
+# Week 12: Report 12 #
+## Week of 11/21/2024
+
+This week, together, we decided to work on LumaFlutter, a wearable device designed to visualize emotions through physiological indicators. Drawing inspiration from the dynamic motion of butterfly wings in nature, our goal is to merge this aesthetic with advanced technologies like IoT and immersive interaction.
+
+
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/Frame 2.png">
+
+Specific Tasks Completed:
+1.Completed the concept design and system diagram for the product.
+2.Finalized the overall planning, breaking the project into actionable steps:
+ • Testing sensors for emotion detection.
+ • Developing a low-fidelity prototype for functionality testing.
+ • Designing a 3D model for the butterfly visualization.
+3.Conducted initial research on sensors (e.g., humidity, temperature, and heart rate) to ensure accurate emotion data collection.
+4.Started exploring parametric modeling techniques for the butterfly’s structure.
+
+
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/Zhuojia Poster.png">
+
+
+Challenges:
+As someone without a technical background, learning how to integrate multiple technologies (IoT, LED lighting, and optical fibers) into a single project has been challenging but rewarding.
+
+Next Steps:
+1.Begin testing the sensors and interactive system to ensure reliable data capture.
+2.Develop a working prototype to demonstrate basic functionality.
+
 - [TDF Wiki](https://github.com/Berkeley-MDes/24f-desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
 - [Google Drive Folder](https://drive.google.com/drive/u/0/folders/1DJ1b6sSDwHXX6NRcQYt10ivyQSgU0ND6) - slides and other resources
 - [bCourses](https://bcourses.berkeley.edu/courses/1537533) - where the grading happens
