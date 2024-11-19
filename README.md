@@ -287,7 +287,6 @@ This week, together, we decided to work on LumaFlutter, a wearable device design
 
 Specific Tasks Completed:
 1.Completed the concept design and system diagram for the product.
-
 2.Finalized the overall planning, breaking the project into actionable steps:
  • Testing sensors for emotion detection.
  • Developing a low-fidelity prototype for functionality testing.
