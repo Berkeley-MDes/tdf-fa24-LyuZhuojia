@@ -305,8 +305,8 @@ Next Steps:
 1.Begin testing the sensors and interactive system to ensure reliable data capture.
 2.Develop a working prototype to demonstrate basic functionality.
 
-# Week 13: Report 13 #
-## Week of 11/28/2024
+# Final Week Report #
+## Week of 12/4/2024
 
 This week, we focused on resolving technical issues. The Photon board can now upload pressure data to determine if the user is touching an object. If a touch is detected, the servo rotates, mimicking a butterfly flapping its wings. The touch is categorized into light and heavy, which controls different LED light colors.
 
@@ -320,6 +320,13 @@ In the palm position, we used a humidity sensor to detect sweat, and the blue LE
 
 <img width="200" alt="Cool Phone Stand made of rocks" src="assets/截屏2024-12-08 下午12.55.40 1.png">
 
+After creating the prototype, we aim to redesign the device’s appearance to make it more aesthetically pleasing. We plan to use optical fibers and parametric modeling to enhance its overall presentation.
+
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/截屏2024-12-08 下午12.58.40 1.png">
+
+To iterate our product, we also used a variety of art materials to decorate the butterfly shape. It has become beautiful, finally! We did it!
+
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets//WechatIMG437.jpg">
 
 - [TDF Wiki](https://github.com/Berkeley-MDes/24f-desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
 - [Google Drive Folder](https://drive.google.com/drive/u/0/folders/1DJ1b6sSDwHXX6NRcQYt10ivyQSgU0ND6) - slides and other resources
