@@ -305,6 +305,22 @@ Next Steps:
 1.Begin testing the sensors and interactive system to ensure reliable data capture.
 2.Develop a working prototype to demonstrate basic functionality.
 
+# Week 13: Report 13 #
+## Week of 11/28/2024
+
+This week, we focused on resolving technical issues. The Photon board can now upload pressure data to determine if the user is touching an object. If a touch is detected, the servo rotates, mimicking a butterfly flapping its wings. The touch is categorized into light and heavy, which controls different LED light colors.
+
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/截屏2024-12-08 下午12.51.48 1.jpg">
+
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/WechatIMG323.jpg">
+
+In the sensor setting part of the hand, we conducted multiple tests and used white, blue, red, and purple colors to present the sensing effect.
+
+In the palm position, we used a humidity sensor to detect sweat, and the blue LED was on to indicate that the data was read successfully; at the same time, in the finger part, we set the heart rate sensor to detect the heart rate, and the red LED was on to indicate that the data had been entered.
+
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/截屏2024-12-08 下午12.55.40 1.png">
+
+
 - [TDF Wiki](https://github.com/Berkeley-MDes/24f-desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
 - [Google Drive Folder](https://drive.google.com/drive/u/0/folders/1DJ1b6sSDwHXX6NRcQYt10ivyQSgU0ND6) - slides and other resources
 - [bCourses](https://bcourses.berkeley.edu/courses/1537533) - where the grading happens
